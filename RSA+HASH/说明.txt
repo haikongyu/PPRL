@@ -1,0 +1,3 @@
+需要安装的依赖包: pycryptodome
+同时执行文件A.ipynb和B.ipynb
+实验数据./data/xa.csv和./data/xb.csv
